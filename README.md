@@ -1,7 +1,19 @@
-# mosspaul
-- I am a student at BYU majoring in Machine Learning
-- I like Backend and Frontend Web & App development
-- C# is my favorite language!
-
-Golang, .NET, AngularJS, Python, Linux
-
+```json
+{
+    "name": "mosspaul",
+    "role": {
+        "type": "student",
+        "major": "Machine Learning",
+        "school": "BYU"
+    },
+    "skills": [
+        ".NET",
+        "Angular",
+        "Python",
+        "PostgreSQL",
+        "SQL Server",
+        "Golang",
+        "MongoDb",
+    ],
+}
+```
